@@ -1,4 +1,4 @@
-# Guys - Marlo & Christopher
+# MC Hub CDN
 
-This is for stuff like images, and other extra files.
-I will move the ones from the existing repository (MC-Hub) later.
+On this site is stored images and other inline content for MC Hub, (www.mchub.ga)[www.mchub.ga]
+Only (ninjadev64)[github.com/ninjadev64] should edit this repository, any other developer of MC Hub should send the files to him to upload.
