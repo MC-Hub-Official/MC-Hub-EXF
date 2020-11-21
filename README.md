@@ -1,3 +1,7 @@
+---
+permalink: /404.html
+---
+
 # MC Hub Extra Files
 
 Images and extra files for MC Hub are stored on this server. 
