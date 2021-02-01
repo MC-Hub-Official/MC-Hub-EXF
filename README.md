@@ -6,6 +6,8 @@ permalink: /404.html
 
 Images and extra files for MC Hub are stored on this server. 
 
-https://www.mchub.ga 
+[https://minecraft-hub.com](https://minecraft-hub.com)
 
 MC Hub is a free website with amazing tips, seeds, facts and command guides to help you become a Minecraft PRO in no time!
+
+![MC Hub - minecraft-hub.com](https://exf.minecraft-hub.com/logos/achievement.png)
